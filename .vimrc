@@ -4,6 +4,8 @@ filetype on
 filetype plugin on
 filetype indent on
 
+set fileformats=unix,dos
+
 set tabstop=4
 set shiftwidth=4
 set smarttab

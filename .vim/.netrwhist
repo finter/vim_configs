@@ -1,10 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='c:'
-let g:netrw_dirhist_2='c:/Users'
-let g:netrw_dirhist_3='c:/Users/finter'
-let g:netrw_dirhist_4='c:/Users/finter/Documents'
-let g:netrw_dirhist_5='c:/Users/finter/Documents/!projects'
-let g:netrw_dirhist_6='c:/Users/finter/Documents/!projects/contests'
-let g:netrw_dirhist_7='c:/Users/finter/Documents/!projects/contests/e-olymp.com'
-let g:netrw_dirhist_8='c:/Users/finter/Documents/!projects/contests/e-olymp.com/e-olimp-2244'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='C:/Users/FINTER/Documents/!projects/vim_configs'
