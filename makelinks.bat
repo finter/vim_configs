@@ -5,4 +5,4 @@ rmdir /S /Q %USERPROFILE%\vimfiles
 
 mklink /H %USERPROFILE%\.vimrc .vimrc
 mklink /H %USERPROFILE%\.gvimrc .gvimrc
-mklink /D %USERPROFILE%\vimfiles .vim
+mklink /D %USERPROFILE%\vimfiles %CD%\.vim

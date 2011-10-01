@@ -4,4 +4,4 @@ rm -r ~/.vim
 
 ln .vimrc ~/.vimrc
 ln .gvimrc ~/.gvimrc
-ln -s .vim ~/.vim
+ln -s $PWD/.vim ~/.vim
