@@ -11,4 +11,4 @@ set guioptions-=L
 set lines=45 columns=120
 
 set guifont=Consolas:h15:cRUSSIAN
-set fileencoding=utf-8
+set langmenu=en_EN.UTF-8

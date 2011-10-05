@@ -1,5 +1,12 @@
 set nocompatible
 
+" set UTF-8 encoding
+set enc=utf-8
+set fenc=utf-8
+set termencoding=utf-8
+
+let $LANG='en'
+
 filetype on
 filetype plugin on
 filetype indent on
@@ -12,6 +19,8 @@ set smarttab
 set expandtab
 set softtabstop=4
 set nowrap
+
+set textwidth=80
 
 set autoindent
 set smartindent
